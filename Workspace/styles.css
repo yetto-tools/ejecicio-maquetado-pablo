@@ -1,0 +1,32 @@
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#navitem:hover{
+    background-color: #0d6efd;
+    transform:translateY(5px);
+}
+.hover-bg-blue:hover{
+    background-color:#0d6efd !important;
+    transform:translateY(5px);
+}
+.textoSecc1{
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.header{
+    transition: duration 0.7s;
+}
+.listaCorporativo{
+    list-style-type: disc;
+}
+.seccion{
+    height: 100%;
+    margin: 0%;
+    margin-bottom: 2rem;
+}
+.cartas{
+    height: 100vh;
+}
